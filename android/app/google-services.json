@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10773161862",
+    "project_id": "swaasthi-9666e",
+    "storage_bucket": "swaasthi-9666e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10773161862:android:dcf155b49981ebeed9ae07",
+        "android_client_info": {
+          "package_name": "com.example.swaasthi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK5UeW0ZLyoEAOkP4ntvoNy95w6QkRD24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
